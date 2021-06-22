@@ -2,7 +2,7 @@
 layout: post
 title:  "The Successful Cheater"
 date:   2021-06-22 01:00:00 +0200
-categories: discord story
+categories: story discord
 ---
 
 # Arc 1: This Server
