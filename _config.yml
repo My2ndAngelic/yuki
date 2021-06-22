@@ -36,7 +36,7 @@ url: "http://my2ndangelic.me" # the base hostname & protocol for your site, e.g.
 theme: minima
 minima:
   skin: dark    
-  date_format: "%d/%m/%Y %H:%m:%S %Z"
+  date_format: "%d/%m/%Y"
 # theme: alembic-jekyll-theme
   social_links:
     github: my2ndangelic
