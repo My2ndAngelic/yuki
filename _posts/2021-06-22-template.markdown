@@ -18,7 +18,7 @@ for $$n > 69$$.
 
 # Images
 
-![](/jblog/assets/images/pepega.png){:width="320"} ![](/jblog/assets/images/tenor.gif)
+![](/jblog/assets/images/pepega.png){:width="320"} ![](/jblog/assets/images/tenor (9).gif)
 
 # Videos
 
