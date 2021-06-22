@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Template for everything"
+title:  "Template for Everything"
 date:   22/06/2021 02:06:09 CEST
 categories: test
 ---
@@ -23,7 +23,7 @@ for $$n > 69$$.
 # Videos
 
  <iframe width="560" height="420"
-src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=0" 
+src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1" 
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>

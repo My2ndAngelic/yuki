@@ -133,3 +133,4 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,linux,sublimetext,vim,jekyll
 .DS_Store
+.DS_Store
