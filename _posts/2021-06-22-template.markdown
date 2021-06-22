@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Template for everything"
+date:   2021-06-22 01:35:00 +0200
+categories: test
+---
+# Text
+Hello World.
+
+# LaTeX
+We have 
+
+$$\sum_{i=1}^{n}i > 420$$ 
+
+$$\int_{1}^{n}\left(\frac{1}{x}\right) dx > 4.20$$
+
+for $$n > 69$$.
+
+# Images
+
+![](/jblog/assets/images/pepega.png){:width="320"} ![](/jblog/assets/images/tenor.gif)
+
+# Videos
+
+ <iframe width="560" height="420"
+src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=0" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+

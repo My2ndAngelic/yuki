@@ -19,20 +19,32 @@
 # in the templates via {{ site.myvariable }}.
 
 title: M2A blog
-email: m2a@my2ndangelic.me
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+author:
+  name: My2ndAngelic
+  email: m2a@my2ndangelic.me
+description: > # this means to ignore newlines until "show_excerpts:"
+  Hello World! :pepega:
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
 baseurl: "/jblog" # the subpath of your site, e.g. /blog
 url: "http://my2ndangelic.me" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  my2ndangelic
+# twitter_username: my2ndangelic
+# github_username:  my2ndangelic
 
 # Build settings
 theme: minima
+minima:
+  skin: dark    
+  date_format: "%d/%m/%Y %H:%m:%S %Z"
+# theme: alembic-jekyll-theme
+  social_links:
+    github: my2ndangelic
+
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
