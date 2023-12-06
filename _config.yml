@@ -21,14 +21,14 @@
 title: M2A blog
 author:
   name: My2ndAngelic
-  email: m2a@my2ndangelic.me
+  email: m2a@my2ndangelic.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Hello World! :pepega:
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
-baseurl: "/jblog" # the subpath of your site, e.g. /blog
-url: "http://my2ndangelic.me" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://yuki.my2ndangelic.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: my2ndangelic
 # github_username:  my2ndangelic
 
